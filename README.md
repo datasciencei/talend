@@ -12,9 +12,9 @@ https://go.microsoft.com/fwlink/?linkid=2043154
 
 ### SQL Server
 
-| Endpoint | adventureworksdw2017.ceg4ngpdpmhr.ca-central-1.rds.amazonaws.com |  
-| Login | guest |  
-| Password | talendrocks |  
+Endpoint : adventureworksdw2017.ceg4ngpdpmhr.ca-central-1.rds.amazonaws.com  
+Login : guest  
+Password : talendrocks  
 
 ### CSV file
 
