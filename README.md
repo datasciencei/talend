@@ -18,10 +18,10 @@ Password : talendrocks
 
 ### CSV file
 
-https://github.com/datasciencei/talend/blob/master/dbo.DimProductSubcategory.csv
+https://github.com/datasciencei/talend/blob/master/dbo.DimProductSubcategory.csv  
 
 ### Resources
 
-https://help.talend.com/
-https://community.talend.com/t5/custom/page/page-id/Tutorials
+https://help.talend.com/  
+https://community.talend.com/t5/custom/page/page-id/Tutorials  
 
