@@ -12,11 +12,6 @@ https://go.microsoft.com/fwlink/?linkid=2043154
 
 ### SQL Server
 
-| --- | --- |
-| git status | List all new or modified files |
-| git diff | Show file differences that haven't been staged |
-
-| --- | --- |  
 | Endpoint | adventureworksdw2017.ceg4ngpdpmhr.ca-central-1.rds.amazonaws.com |  
 | Login | guest |  
 | Password | talendrocks |  
